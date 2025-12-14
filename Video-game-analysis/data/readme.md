@@ -1,27 +1,44 @@
-##The dataset used in this project is the VG Sales dataset, which contains historical sales data for video games released across multiple platforms.
+## Dataset Overview
 
-##DESCRIPTION OF THE DATASET
+The dataset used in this project is the **VG Sales dataset**, which contains historical sales data for video games released across multiple platforms and regions.
 
-Name – Game title
+---
 
-Platform – Console or platform
+## Dataset Description
 
-Year – Year of release
+**Columns included in the dataset:**
 
-Genre – Game genre
+- **Name** – Game title  
+- **Platform** – Console or platform  
+- **Year** – Year of release  
+- **Genre** – Game genre  
+- **Publisher** – Publishing company  
+- **NA_Sales** – North America sales (in millions)  
+- **EU_Sales** – Europe sales (in millions)  
+- **JP_Sales** – Japan sales (in millions)  
+- **Other_Sales** – Sales from other regions (in millions)  
+- **Global_Sales** – Total worldwide sales (in millions)  
 
-Publisher – Publishing company
+---
 
-NA_Sales, EU_Sales, JP_Sales, Other_Sales – Regional sales (in millions)
+## Tools Used
 
-Global_Sales – Total worldwide sales (in millions)
+- **Python**  
+  - Pandas  
+  - NumPy  
+  - Matplotlib / Pyplot  
+  - Seaborn  
+  - Squarify  
 
-## TOOLS USED FOR THE PROJECT
+- **MySQL**  
+  - Data cleaning  
+  - Data transformation  
+  - Analytical querying  
 
-I. Python (Pandas, NumPy, Matplotlib,Seaborn,Pyplot,Squarify)
+- **Power BI**  
+  - Interactive dashboards  
+  - Visual storytelling  
 
-II. MySQL (Data cleaning, transformation, querying)
-
-Power BI (Dashboards and visual storytelling)
-
-Git & GitHub (Version control and portfolio presentation)
+- **Git & GitHub**  
+  - Version control  
+  - Portfolio presentation  
