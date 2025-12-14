@@ -1,5 +1,6 @@
 ## I used powerbi in this project so dont mind the name of the directory will upload the tableau visuals later
 
+
 ## Insights Supported by PowerBi Dashboards
 
 - Global Sales Trends: Line charts show global sales peaking in the late 2000s, followed by a gradual decline.
