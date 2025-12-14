@@ -18,5 +18,4 @@ publishers, and time.
 - North America accounts for the largest share of global video game sales.
 - Publisher dominance shifts over time, reflecting from changes in console generations and market dynamics.
 - Wii sports was the leading game of the 21st century with over 82million copies sold globally
-- Followed closely by Super Mario Bros selling 40 million copies globally
-- 
+- Followed closely by Super Mario Bros selling 40 million copies globally.
